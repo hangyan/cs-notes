@@ -11,3 +11,6 @@
 # DevOps
 
 # OVN
+
+# DB
+* postgresql
